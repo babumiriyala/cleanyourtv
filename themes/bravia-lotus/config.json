@@ -1,0 +1,11 @@
+{
+  "wallpaper": true,
+  "wallpaper_dim": 0,
+  "wallpaper_true_color": true,
+  "ambient_glow": false,
+  "dock_glass": true,
+  "top_menu": true,
+  "rows_below_dock": 0,
+  "dock_row": true
+}
+
